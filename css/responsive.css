@@ -5,7 +5,7 @@
 
 @media (min-width: 1281px) {
 
-  /* CSS */
+    /* CSS */
 
 }
 
@@ -16,7 +16,7 @@
 
 @media (min-width: 1025px) and (max-width: 1280px) {
 
-  /* CSS */
+    /* CSS */
 
 }
 
@@ -27,25 +27,136 @@
 
 @media (min-width: 768px) and (max-width: 1024px) {
 
-  /* CSS */
-.bennar-contant{
-  height: auto !important;
-  padding: 0px !important;
-}
-.bennar-section{
-  height: auto !important;
-}
+    /* CSS */
+    .bennar-contant{
+        padding: 0px !important;
+    }
 .bennar-contant h1{
-  margin-right: 0px !important;
-  font-size: 40px !important;
+    margin-right: 0px !important;
+    font-size: 40px !important;
 }
-.bennar-contant p{
-  padding-right: 0px !important;
+.bennar-contant p {
+    padding-right: 0px !important;
+}
+.bennar-section {
+    height: auto !important;
+}
+.bennar-contant{
+    height: 50vh !important;
 }
 .bennar-img{
-  width: auto !important ;
-  margin-left: 0px  !important ;
+    width: 265px !important;
 }
+.edits-icon{
+    top: 173px !important;
+}
+.features-left{
+    width: auto !important;
+}
+.f-top h2{
+    padding-right: 0px !important;
+}
+.f-top p{
+    margin-right: 0px !important;
+}
+.per-text p{
+    margin-right: 0px !important;
+}
+
+
+
+
+
+
+
+
+
+.smart-section {
+    padding: 100px 0px;
+}
+.smart-left h2 {
+    margin-right: 0px !important; 
+    margin-left: 0px !important;
+}
+.smart-right p{
+    margin-right: 0px !important;
+}
+
+.sm-textall{
+        padding: 100px 0px 0px 0px !important;
+}
+.smt-text p{
+    margin-right: 0px !important;
+}
+.Designed-img {
+    width: 388px;
+}
+.Designed-img img {
+    width: 100%;
+}
+.Designed-text{
+    height: auto !important;
+}
+.Designed-text h2{
+    margin-right: 0px !important;
+}
+.Designed-text p{
+     margin-right: 0px !important;
+}
+.choose-section{
+    padding-bottom: 0px !important;
+}
+.choose-top h2{
+    padding: 0px !important;
+}
+.choose-top p{
+    padding: 0px !important;
+}
+.cc-text p{
+    padding: 0px !important;
+}
+.ultimate-contant {
+      margin-left: 65px !important;
+}
+.ultop-text h2{
+    margin-right: 0px !important;
+}
+.ultop-text p{
+     margin-right: 0px !important;
+     }
+.ultimate-img{
+    margin-top: 850px;
+    margin-left: -287px;
+}
+.ul-text p{
+    margin-right: 0px !important;
+}
+.cc-text h2{
+    font-size: 19px !important;
+}
+.meet-right{
+        margin-top: 560px;
+        margin-left: -300px;
+        margin-right: 0px !important;
+}
+.acc{
+    padding: 0px !important;
+}
+.downl-img {
+    width: 400px !important;
+   margin-left: 0px !important; 
+    margin-bottom: -48px !important;
+    margin-top: 120px !important;
+}
+
+.downl-contant{
+    margin-left: 0px !important;
+    margin-bottom: 15px !important;
+}
+
+
+
+
 
 
 
@@ -58,7 +169,41 @@
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 
-  /* CSS */
+    /* CSS */
+  .companies-img img {
+      margin-right: 30px !important;
+  }
+.ultimate-img {
+    margin-top: 0px !important;
+    margin-left: -68px !important;
+    margin-top: 150px !important;
+}
+.ultimate-img img {
+    width: 72% !important;
+}
+.downl-img {
+    margin-bottom: -30px !important;
+}
+.meet-left{
+    width: auto !important;
+}
+
+.meet-right {
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+
+}
+
+.edits-icon{
+    top: 110px !important;
+}
+
+
+
+
+
+
+
 
 }
 
@@ -69,26 +214,190 @@
 
 @media (min-width: 481px) and (max-width: 767px) {
 
-  /* CSS */
- .bennar-contant{
-  height: auto !important;
-  padding: 0px !important;
-}
-.bennar-section{
-  height: auto !important;
-}
-
+    /* CSS */
+    .bennar-section{
+        height: auto !important;
+    }
 .bennar-contant h1{
-  margin-right: 0px !important;
+    margin-right: 0px !important;
 }
 .bennar-contant p{
-  padding-right: 0px !important;
+    padding-right: 0px !important;
+}
+.bennar-img {
+    width:350px !important;
+     margin-left: 21px !important;
+}
+.bennar-contant{
+    padding: 0px !important;
+}
+.edits-icon{
+    top: 70px !important;
+}
+.bennar-img img {
+    width: auto !important;
+    margin-left: 55px;
 }
 .companies-img img {
-  margin-right: 40px !important;
-  margin-left: 58px !important;
-  margin-bottom: 10px !important;
-} 
+    width: 100px !important;
+    margin-right: 40px !important;
+}
+.features-right{
+   text-align: center;
+}
+.f-top h2{
+    padding-right: 0px !important;
+}
+.f-top p{
+    margin-right: 0px !important;
+}
+.per-text p{
+    margin-right: 0px !important;
+}
+.p-imgs{
+    padding-left: 224px;
+}
+
+
+
+
+
+.per-img {
+    margin-bottom: 10px;
+}
+.features-left {
+    width: 400px;
+    margin: auto;
+}
+.per-text p {
+    padding: 0px 71px;
+}
+.Performance {
+ margin-top: 30px ;
+}
+.smart-section {
+    margin-top: 100px;
+}
+.smart-left h2{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.smart-right p {
+
+     margin-right: 0px !important;
+
+}
+.sm-textall {
+ padding: 0px !important;
+
+}
+.smt-text p{
+    /* margin-right: 0px !important; */
+}
+.smart-text {
+    margin-top: 15px;
+}
+.Designed-img {
+    width: auto;
+}
+.Designed-img img{
+    width: 100%;
+}
+.Designed-section{
+    padding: 100px 0px ;
+}
+.Designed-text h2{
+    margin-right: 0px !important;
+}
+.Designed-text p{
+    margin-right: 0px !important;
+}
+.choose-top h2{
+    font-size: 30px !important;
+    padding: 0px !important;
+}
+.choose-top p{
+    padding: 0px !important;
+}
+.choose-section{
+    margin-top: -100px ;
+}
+.ultimate-contant {
+    margin-left: 0px !important; 
+    text-align: center ;
+    margin-top: -100px;
+}
+.ultop-text h2{
+    margin-right: 0px !important;
+}
+.ultop-text p{
+    margin-right: 0px !important;
+}
+.ultop-text{
+    padding: 49px ;
+}
+.ul-text{
+    text-align: center !important;
+}
+.ul-div{
+    margin: auto !important;
+}
+.ul-text p {
+    padding: 0px 100px !important;
+    margin-right: 0px !important;
+}
+.ultimate-img{
+  
+ width: 410px !important;
+ margin: auto;
+ margin-top: 25px;
+
+}
+.ultimate-img im{
+    width: auto !important;
+}
+.meet-left{
+    width: auto !important;
+}
+.meet-right{
+    margin-right: 0px !important;
+    padding: 20px ;
+}
+.Meet-Client{
+    text-align: center;
+}
+.mtext-top h2{
+    margin-right: 0px !important;
+}
+.mtext-top p{
+     margin-right: 0px !important;
+}
+.mtext-top {
+    padding: 10px 88px;
+}
+.mtext-middle p{
+     margin-right: 0px !important;
+}
+.mtext-icon{
+    margin-left: 233px;
+}
+.acc{
+    padding:0px !important;
+}
+.Frequently-section{
+    margin-top: -100px !important;
+}
+.downl-contant{
+    margin-left: 0px !important
+}
+.downl-img {
+    width: 516px !important;
+    margin-left: 0px !important;
+    margin-bottom: -38px !important;
+  
+}
+
+
 
 
 
@@ -101,173 +410,196 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
 
-  /* CSS */
- .bennar-section{
-    height: auto !important;
-    margin-top: 40px !important;
+    /* CSS */
+    .bennar-contant{
+        height: auto !important;
+        padding: 0px !important;
+    }
+  .bennar-contant h1{
+      margin-right: 0px !important;
   }
   .bennar-img{
-    width: auto !important;
+      margin-left: 0px !important;
   }
-  .bennar-img img {
-
-    margin-left: 12px !important;
+  .bennar-contant p{
+      padding-right: 0px !important;
   }
-  .bennar-contant{
-    height: auto !important;
-    padding: 0px !important;
-    text-align: center !important;
+  .bennar-img{
+      width: auto !important;
+      margin-right: 0px !important;
   }
-  .bennar-contant h1{
-    margin-right: 0px !important;
+  .bennar-section{
+      height: auto !important;
   }
-   .bennar-contant p {
-     padding-right: 0px !important;
-   }
-.edits-text{
-  width: auto !important;
+.companies-img img {
+    margin-right: 22px !important;
+    margin-left: 19px !important;
+    margin-top: 35px !important;
+}
+.edits{
+    margin-top: 25px !important;
 }
 .edits-icon{
-  top: 99px !important;
+    top: 84px !important;
 }
-.companies-section h3{
-  margin-bottom: 50px;
-}
-.companies-img img {
-  
-  display: block !important;
-  margin: auto !important;
-  margin-bottom: 50px !important;
-}
-
-.features-section{
-  padding-top: 0px !important;
-      margin-top: -90px !important;
-      }
-}
-.features-left{
-  width: auto !important;
-}
-.companies-section h3{
-  margin-bottom: 30px !important;
-}
-.features-right{
-  text-align: center;
+.features-left {
+    width: 300px !important;
 }
 .f-top h2{
-  padding-right: 0px !important;
+    padding-right: 0px !important;
 }
 .f-top p{
-  margin-right: 0px !important;
+    margin-right: 0px !important;
 }
 .per-text p{
-  margin-right: 0px !important;
+     margin-right: 0px !important;
 }
 .p-imgs {
-  margin-top: 25px !important;
-  margin-left: 130px !important;
-  margin-bottom: 5px !important;
-}
-.smart-left h2{
-  margin-left: 0px !important;
-  margin-right: 0px !important;
-}
-.smart-section {
-  text-align: center !important;
-}
-.smart-right p{
-  margin-right: 0px !important;
-}
-.sm-textall{
-  padding: 0px !important;
-  text-align: left !important;
-}
-.Designed-img {
-  width: auto ;
-}
-.Designed-img img {
-  width: 100%;
-}
-.choose-top h2{
-  padding: 0px !important;
-}
-.choose-top p{
-padding: 0px !important;
+    margin-top: 0px  !important; 
 
 }
-.cc-text p{
-  padding: 0px !important;
+.features-left {
+ 
+    margin-top: -100px ;
 }
-.choose-bottom{
-  padding: 0px !important;
+
+
+
+.features-right{
+  
+  margin-top: 40px !important;
+}
+.Performance {
+    margin-top: 32px;
+}
+.smart-left h2{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.smart-right p{
+    margin-right: 0px !important;
+}
+.smart-contant{
+    margin-top: 40px;
+}
+.sm-textall{
+    padding: 0px !important;
+}
+.smt-text p{
+    margin-right: 0px !important;
+}
+.smt-text {
+    margin-bottom: 30px;
+}
+.Designed-img {
+    width: 100%;
+}
+.Designed-img img{
+    width: 100%;
+}
+.Designed-text h2{
+    margin-right: 0px !important;
+}
+.Designed-text p{
+    margin-right: 0px !important;
+}
+.choose-top h2{
+    padding: 0px !important;
+}
+.choose-top p{
+    padding: 0px !important;
+}
+.cc-text p{
+    padding: 0px !important;
 }
 .ultimate-contant{
-  margin-left: 0px !important;
+    margin-left: 0px !important;
+        text-align: center;
 }
 .ultop-text h2{
-  margin-right: 0px !important;
+    margin-right: 0px !important;
 }
 .ultop-text p{
-  margin-right: 0px !important;
-}
-.ultimate-contant{
-  text-align: center !important;
-}
-.all-cards .ult-contant{
-  text-align: center !important;
-}
-.ul-text{
-  text-align: center !important;
-}
-.ul-text p{
-  margin-right: 0px !important;
+    margin-right: 0px !important;
 }
 .ul-div{
-  margin: auto !important;
+    margin: auto !important;
+}
+.ul-text{
+    text-align: center !important;
+}
+.ul-text p {
+ 
+    margin-right: 0px !important; 
 }
 .ultimate-img{
-  width: auto !important;
-      margin-top: 30px;
+    width: auto !important;
+    margin-top: 30px;
 }
-.meet-left {
-  width: auto !important;
+.all-cards .ult-contant {
+    padding: 0px 45px;
+}
+.ultop-text{
+    padding: 20px;
+}
+.Ultimate-section{
+    padding: 0px !important;
+}
+.choose-top{
+    margin-top: 30px;
+}
+.meet-left{
+    width: auto !important;
 }
 .meet-right{
-  margin-right: 0px !important;
-  text-align: center !important;
-      margin-top: 30px;
+    margin-right: 0px !important;
+    margin-top: 50px;
 }
 .mtext-top h2{
-  margin-right: 0px !important;
+    margin-right: 0px !important;
 }
-.mtext-top p {
-  margin-right: 0px !important;
+.mtext-top p{
+    margin-right: -15px !important;
+}
+.mtext-top{
+   text-align: center;
+ }
+.mtext-middle {
+    text-align: center;
 }
 .mtext-middle p{
-  margin-right: 0px !important;
-      padding: 10px;
+    margin-right: -15px !important;
+}
+.mtext-bottom {
+    text-align: center;
 }
 .mtext-icon{
-  margin-left: 110px !important;
+    margin-left: 110px;
 }
-.Frequently-section{
-  padding: 0px !important;
-}
-.acc{
+.acc {
   padding: 0px !important;
 }
 .downl-contant{
-  margin-left: 0px !important;
-}
-.downl-top p{
-  margin-right: 0px !important;
+    margin-left: 0px !important;
+    margin-bottom: 20px;
 }
 .downl-img {
-   width: auto !important; 
-   margin-left: 0px !important; 
-  margin-bottom: -25px !important;
-  margin-top: 20px !important;
-} */
+     width: auto !important; 
+     margin-left: 0px !important; 
+
+}
+.downl-top h1{
+    font-size: 25px !important;
+}
+.Meet-Client{
+    margin-bottom: -100px;
+}
+.downl-img{
+    margin-bottom: -26px !important;
+}
+
+
+
 
 
 

@@ -8,6 +8,7 @@
 body {
     font-family: 'Poppins',
         sans-serif;
+       
 }
 
 /* ###################### 
@@ -29,10 +30,7 @@ body {
     border: 1px solid #2500f9;
 }
 
-/* .header-btn:hover{
-    background: transparent;
-    border: 1px solid black;
-} */
+
 .navbar-nav {
     margin-right: 40px;
 }
@@ -41,15 +39,15 @@ li.nav-item {
     padding-right: 18px;
     font-weight: 500;
 }
+
 .drop {
     width: 100%;
     position: fixed;
     z-index: 9999999;
     background: rgba(27, 27, 27, 0.6);
     transition: all .3s;
-  
-}
 
+}
 /* ###################### 
      bennar css
 ########################*/
@@ -136,9 +134,8 @@ li.nav-item {
 .bc-bottom {
     margin-top: 36px;
 }
-
 /*################ 
-   vcompanies css
+   companies css
 ##################*/
 .companies-section {
     padding: 100px 0px;
@@ -252,6 +249,11 @@ li.nav-item {
     margin-right: 278px;
 }
 
+
+
+
+
+
 /*################ 
    smart css
 ##################*/
@@ -333,7 +335,6 @@ li.nav-item {
 .st-3 h2 {
     color: #40975f;
 }
-
 /*################ 
    Designed css
 ##################*/
@@ -366,7 +367,6 @@ li.nav-item {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 /*################ 
 choose-section css
 ##################*/
@@ -456,7 +456,6 @@ choose-section css
 
     margin-bottom: 40px;
 }
-
 /*#################### 
  Ultimate-section css
 ######################*/
@@ -643,7 +642,6 @@ section.awesome-section {
 .card-bottom p:hover {
     display: none;
 }
-
 /*#################### 
     Meet-Client css
 ######################*/
@@ -758,11 +756,6 @@ section.awesome-section {
     background: #eff3f8;
     color: #2563ff;
 }
-
-
-
-
-
 /*#################### 
     Frequently css
 ######################*/
@@ -779,7 +772,6 @@ section.awesome-section {
 .accordion-button {
     background-color: #f5f7fa !important;
 }
-
 /*#################### 
   Download-section css
 ######################*/
@@ -828,11 +820,6 @@ section.Download-section {
 .downl-img img {
     width: 100%;
 }
-
-
-
-
-
 /*#################### 
   footer-section css
 ######################*/
