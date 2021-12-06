@@ -417,12 +417,14 @@
     }
   .bennar-contant h1{
       margin-right: 0px !important;
+      text-align: center;
   }
   .bennar-img{
       margin-left: 0px !important;
   }
   .bennar-contant p{
       padding-right: 0px !important;
+      text-align: center;
   }
   .bennar-img{
       width: auto !important;
@@ -455,8 +457,8 @@
      margin-right: 0px !important;
 }
 .p-imgs {
-    margin-top: 0px  !important; 
-
+    margin-top: 0px  !important;
+    margin-left: 130px;
 }
 .features-left {
  
@@ -467,7 +469,9 @@
 
 .features-right{
   
-  margin-top: 40px !important;
+margin-top: 40px !important;
+  
+text-align: center;
 }
 .Performance {
     margin-top: 32px;
@@ -481,6 +485,7 @@
 }
 .smart-contant{
     margin-top: 40px;
+    text-align: center;
 }
 .sm-textall{
     padding: 0px !important;
